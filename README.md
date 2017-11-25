@@ -1,5 +1,5 @@
 # ProjectSand
-XNA game project I did independently in 2011. Contains only binaries. Everything is made from scratch, except for the physics engine JigLibX Physic Library (http://jiglibx.codeplex.com/).
+XNA game project I did independently in 2011. Contains only binaries. Everything is made from scratch, except for the physics engine JigLibX Physic Library (http://jiglibx.codeplex.com/). Also, despite the name, it has nothing to do with sand.
 
 ![alt text](Wallper.png)
 
