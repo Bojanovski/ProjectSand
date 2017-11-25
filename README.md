@@ -1,7 +1,7 @@
 # ProjectSand
-XNA game project I did in 2011. Contains only binaries.
+XNA game project I did independently in 2011. Contains only binaries. Everything is made by me from scratch, except the physics engine JigLibX Physic Library (http://jiglibx.codeplex.com/).
 
-How to:
+How to run:
 -----------------------
 1. Install XNA 4.0 (xnafx40_redist.msi)
 2. Run the game (ProjectSandGame.exe)
