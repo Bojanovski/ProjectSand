@@ -1,5 +1,5 @@
 # ProjectSand
-XNA game project I did independently in 2011. Contains only binaries. Everything is made by me from scratch, except the physics engine JigLibX Physic Library (http://jiglibx.codeplex.com/).
+XNA game project I did independently in 2011. Contains only binaries. Everything is made from scratch, except for the physics engine JigLibX Physic Library (http://jiglibx.codeplex.com/).
 
 How to run:
 -----------------------
